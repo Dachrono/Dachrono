@@ -7,8 +7,8 @@ Hi everyone, welcome to my GitHub Im glad with your visit 👋
 
 ### I am a remote full-stack developer looking for new frontiers 
 
-![congrats](https://media.giphy.com/media/RRerwvHrb0nxm/giphy.gif)<br>
-<span>Im trying to be a better codder</span>
+<img src="https://media.giphy.com/media/g79am6uuZJKSc/giphy.gif" height600 width="500"><br>
+<span>My concentration is type...</span>
 
 ### More about me
 ![image](https://github.com/Dachrono/Dachrono/assets/119348116/adedbfb2-20ab-4896-a47e-e904a4b3f7b7)
